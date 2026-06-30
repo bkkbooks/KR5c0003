@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR5c0003/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5c0003/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上玄靈北斗本命延生真經
+  date: '2015-08-29 00:16:32.521379'
+  source:
+    repository: kanripo
+    path: KR5c0003
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5c0003_000-CK-KZ-jye.yaml, hash: 'sha256:5ffc662c076508517112ebc51dd9c57999bae48453cdd19baf0b990b3ab2485b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5c0003_000-CK-KZ-jye.markers.yaml, hash: 'sha256:0dde39931c3bd8fdab4fe08e1a3fef49f8f3d7240159274c0b63b00a07bd3f73'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5c0003_CK-KZ-jye_000-h1
+    span:
+    - body
+    - 0
+    - 2490
+  label: 太上玄靈北斗本命延生眞經
+  type: section
+  level: 1
+hash: sha256:10d480f94b52317948248819cc7638bdb63c0ded484e67398a5ed8cd8fa24f85
